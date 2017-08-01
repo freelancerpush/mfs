@@ -1,0 +1,48 @@
+.RequiredData{color: red;}
+.WelcomeArea{color: #fff;}
+.LogoutBtn{text-decoration: none; color: #fff; margin-left: 23px;}
+
+.dashboard a{
+	color:#404040;
+	font-size:30px;
+}
+
+.dashboard a i{
+	color:#d61420;
+	font-size:30px;
+	padding:10px;
+	}
+.dashboard_left a{
+	text-decoration:none;
+	font-size:15px;
+	color:#767474;
+}
+.dashboard_left a:hover{
+	color:#1DA4C2;
+}	
+
+.dashboard_left li{
+	list-style:none;
+	padding:10px;
+    border-bottom:1px solid #afafaf;
+}
+
+.dashboard_left ul{
+	padding:0px !important;
+	border:solid 1px #afafaf;
+	}
+.logout_red a{
+	color:#db333e;
+}
+.inner-content{
+	padding: 35px 0 ;
+	border-top: 5px solid #009FC5;
+	background-color: #fff;
+}
+
+
+.DWBtn{margin: 0px 15px;}
+.ActiveNav{color: #1da4c2 !important;}
+center h2{margin-bottom: 21px !important; color: #009FC5;}
+.ViewLast10Btn{margin: 0px 15px;}
+center h3{margin-bottom: 25px !important; color: #009FC5;}
